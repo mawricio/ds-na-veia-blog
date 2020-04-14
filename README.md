@@ -6,8 +6,10 @@
 [![](https://img.shields.io/static/v1?label=View%20Demo%20Site&message=link&labelColor=2f363d&color=blue&style=flat&logo=github&logoColor=959da5)](https://fastpages.fast.ai/)
 
 [//]: # (END OF BADGES SECTION)
+https://github.com/mawricio/ds-na-veia
 
-# Welcome To `fastpages`
+# `MEU BLOG`
+powered by FastPageIA
 
 > An easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
 
